@@ -1,0 +1,16 @@
+Ford Focus	2011	11 D 2345	8	115.2	
+Renault Clio	2009	09 SO 7813	5	75.0	
+Opel Corsa	2010	10 D 2298	3	45.0	
+Mercedes CLK	2012	12 KK 7345	4	60.0	
+Toyota Yaris	2007	07 D 2983	2	20.0	
+Mini      	2012	12 C 88951	7	100.8	
+Ford Focus	2011	11 D 2345	6	90.0	
+Honda Civic	2003	03 KE 94501	4	40.0	
+Mini      	2012	12 C 88951	10	144.0	
+Opel Corsa	2010	10 D 2298	8	115.2	
+Mercedes CLK	2012	12 KK 7345	8	115.2	
+Honda Civic	2003	03 KE 94501	8	76.8	
+Ford Focus	2011	11 D 2345	10	144.0	
+Toyota Yaris	2007	07 D 2983	7	67.2	
+Audi TT   	2012	12 D 6766	4	45.0	
+mini      	99	99 D 1234	6	60.0	
